@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PartyReservation</string>
+    <string name="Confirm_Booking">Booking Confirmed</string>
+    <string name="Hall_A">Hall A</string>
+    <string name="A_peoople">1 - 5 people</string>
+    <string name="Hall_B">Hall B</string>
+    <string name="B_people">5 - 10 people</string>
+    <string name="Hall_C">Hall C</string>
+    <string name="C_people">more than 10</string>
+    <string name="main_statement">Celebrate Your Amazing Events With JUICE LIFE</string>
+    <string name="reserve_now">Reserve Now!</string>
+</resources>
